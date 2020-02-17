@@ -1,0 +1,14 @@
+{
+    "name": "manga-reader-reader-app",
+    "main": "index.js",
+    "scripts": {
+        "watch": "parcel --port=3001 src/index.html"
+    },
+    "dependencies": {
+        "react": "*",
+        "react-dom": "*"
+    },
+    "devDependencies": {
+        "parcel-bundler": "*"
+    }
+}

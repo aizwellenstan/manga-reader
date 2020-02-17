@@ -1,0 +1,14 @@
+{
+    "name": "manga-reader-services",
+    "main": "index.js",
+    "devDependencies": {
+        "@babel/core": "*",
+        "@babel/preset-env": "*",
+        "babel-watch": "*",
+        "dotenv": "*",
+        "mongoose": "*"
+    },
+    "scripts": {
+        "watch": "babel-watch src/index.js"
+    }
+}
